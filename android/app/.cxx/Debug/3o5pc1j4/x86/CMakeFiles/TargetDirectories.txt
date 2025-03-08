@@ -1,0 +1,2 @@
+C:/Users/seek_/Documents/repos_mpc/FPGS_DAM/PMDM/PMDM04/exercicis/preferences_app_plantilla-main/preferences_app_plantilla-main/android/app/.cxx/Debug/3o5pc1j4/x86/CMakeFiles/edit_cache.dir
+C:/Users/seek_/Documents/repos_mpc/FPGS_DAM/PMDM/PMDM04/exercicis/preferences_app_plantilla-main/preferences_app_plantilla-main/android/app/.cxx/Debug/3o5pc1j4/x86/CMakeFiles/rebuild_cache.dir

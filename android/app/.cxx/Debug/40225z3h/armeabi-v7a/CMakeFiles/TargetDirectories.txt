@@ -1,0 +1,2 @@
+C:/Users/seek_/Documents/repos_mpc/FPGS_DAM/PMDM/PMDM04/exercicis/qr_scan_plantilla-master/qr_scan_plantilla-master/android/app/.cxx/Debug/40225z3h/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/seek_/Documents/repos_mpc/FPGS_DAM/PMDM/PMDM04/exercicis/qr_scan_plantilla-master/qr_scan_plantilla-master/android/app/.cxx/Debug/40225z3h/armeabi-v7a/CMakeFiles/rebuild_cache.dir
