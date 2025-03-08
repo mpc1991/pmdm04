@@ -110,11 +110,7 @@ class _MapaScreenState extends State<MapaScreen> {
               icon: Icon(Icons.person_pin_circle),
               onPressed: () async {
                 _detectarUbicacion(); // Actualiza la ubicación del usuario
-                if (_polylines != null) {
-                  _polylines == null;
-                } else {
-                  _dibujarRuta(); // Dibuja la ruta entre el usuario y el destino
-                }
+                _dibujarRuta(); // Dibuja la ruta entre el usuario y el destino
               }),
         ],
       ),
